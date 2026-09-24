@@ -2,8 +2,8 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.pipeworx-io/comicvine",
   "title": "Comicvine",
-  "description": "Comic Vine: characters, issues, volumes, creators, publishers. Free key.",
-  "version": "0.1.0",
+  "description": "Comic Vine MCP.",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/comicvine",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-comicvine",
