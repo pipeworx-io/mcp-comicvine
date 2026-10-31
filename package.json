@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-comicvine",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Comic Vine MCP.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "comicvine",
     "gatewaySlug": "comicvine",
-    "sourceHash": "v1-55b53864d7e57c5cff2189ea4451dfbaa05aeb7d168bddf10851e26859ca719f",
-    "sourceCommit": "4277282d72f9bf55e548b3799aaf737baf22152f"
+    "sourceHash": "v1-d74cba4fec71563794598baa53c71048399e0d490fb95953ee95a2f2e86aa68c",
+    "sourceCommit": "8cc978183948532674e797c429305c9d8ab2a1c3"
   }
 }
